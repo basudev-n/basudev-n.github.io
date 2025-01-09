@@ -1,11 +1,11 @@
 /* -------------------------------------------------------
  
  Theme Name: E-Summit | Xpreneurs
- Theme URL: https://craftohtml.themezaa.com/
- Description: Elevate your online presence with Crafto - a modern, versatile, multipurpose Bootstrap 5 responsive HTML5, SCSS template using highly creative 48+ ready demos.
- Author: ThemeZaa - https://www.themezaa.com/
- Author ThemeForest URL: https://themeforest.net/user/themezaa
- Copyright(c) 2024 themezaa.com
+ Theme URL: https://craftohtml.Rigeup.com/
+ Description: a dynamic platform for entrepreneurs to connect, learn, and grow through inspiring talks, workshops, and networking opportunities.
+ Author: Rigeup - https://www.Rigeup.com/
+ Author ThemeForest URL: https://themeforest.net/user/Rigeup
+ Copyright(c) 2024 Rigeup.com
  Version: 1.0
  
  ------------------------------------------------------- */
